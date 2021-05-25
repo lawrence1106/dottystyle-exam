@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dottystyle-exam-deployed/static/css/main.e5de7daa.chunk.css",
+    "main.js": "/dottystyle-exam-deployed/static/js/main.26c7ff29.chunk.js",
+    "main.js.map": "/dottystyle-exam-deployed/static/js/main.26c7ff29.chunk.js.map",
+    "runtime-main.js": "/dottystyle-exam-deployed/static/js/runtime-main.2f6b6ea5.js",
+    "runtime-main.js.map": "/dottystyle-exam-deployed/static/js/runtime-main.2f6b6ea5.js.map",
+    "static/js/2.0ba7ed6c.chunk.js": "/dottystyle-exam-deployed/static/js/2.0ba7ed6c.chunk.js",
+    "static/js/2.0ba7ed6c.chunk.js.map": "/dottystyle-exam-deployed/static/js/2.0ba7ed6c.chunk.js.map",
+    "static/js/3.f969b04b.chunk.js": "/dottystyle-exam-deployed/static/js/3.f969b04b.chunk.js",
+    "static/js/3.f969b04b.chunk.js.map": "/dottystyle-exam-deployed/static/js/3.f969b04b.chunk.js.map",
+    "index.html": "/dottystyle-exam-deployed/index.html",
+    "static/css/main.e5de7daa.chunk.css.map": "/dottystyle-exam-deployed/static/css/main.e5de7daa.chunk.css.map",
+    "static/js/2.0ba7ed6c.chunk.js.LICENSE.txt": "/dottystyle-exam-deployed/static/js/2.0ba7ed6c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dottystyle-exam-deployed/static/media/backgroundimage.e200e15a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f6b6ea5.js",
+    "static/js/2.0ba7ed6c.chunk.js",
+    "static/css/main.e5de7daa.chunk.css",
+    "static/js/main.26c7ff29.chunk.js"
+  ]
+}
