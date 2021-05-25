@@ -1,0 +1,76 @@
+.navBar {
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+}
+.navContainerBg {
+  height: 10.3vh;
+  color: white;
+  background-color: #333333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 65%;
+}
+.navItemsContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 530px;
+  font-size: 12px;
+  cursor: pointer;
+}
+.navItems {
+  display: flex;
+  align-items: center;
+  border-left: 1px solid rgb(92, 91, 88);
+  padding-left: 8px;
+  padding-right: 8px;
+  height: 45px;
+}
+.board {
+  padding-left: 8px;
+  display: flex;
+  align-items: center;
+  width: 155px;
+  font-size: 12px;
+  background-color: #282828;
+  height: 40px;
+  border-radius: 10px;
+}
+.playIcon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  width: 40px;
+  height: 35px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.side-nav {
+  color: white;
+  position: absolute;
+  width: 5vh;
+  right: 0;
+  margin-right: 45px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-top: -10vh;
+}
+.side-nav-items {
+  display: flex;
+  flex-direction: column;
+  height: 23%;
+  justify-content: space-around;
+  align-items: center;
+}

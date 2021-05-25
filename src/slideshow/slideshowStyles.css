@@ -1,0 +1,21 @@
+.slideshowContainer {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  color: white;
+  justify-content: center;
+}
+.slideshowContents {
+  width: 100%;
+  margin-top: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.tabOpen {
+  width: 90%;
+  padding: 2em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

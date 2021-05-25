@@ -1,0 +1,19 @@
+.tabContainer {
+  width: 100%;
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.tabContents {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.textSeparator {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.contentHeader {
+  font-size: 1.8em;
+}

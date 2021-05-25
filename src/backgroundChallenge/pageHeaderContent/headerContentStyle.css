@@ -1,0 +1,29 @@
+.bAndCslogan {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 90vh;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.bAndCThe {
+  margin-left: 2.8em;
+  font-size: 2.2em;
+  letter-spacing: 0.3em;
+}
+.bAndCWhitsundays {
+  margin-top: -0.4em;
+  font-size: 4em;
+  letter-spacing: 0.2;
+}
+.bAndCDesc {
+  margin-top: -0.9em;
+  font-size: 1.2em;
+  letter-spacing: 0.1em;
+  left: 4.4em;
+}
+.bAndCTxtGradient {
+  background: -webkit-linear-gradient(#eee, #f1e9d3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

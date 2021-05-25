@@ -1,0 +1,34 @@
+.radioContainer {
+  height: 60vh;
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+}
+.radio-render {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.radio-details {
+  width: 30%;
+  height: inherit;
+  display: flex;
+  flex-direction: column;
+}
+.radio-title {
+  font-size: 1.5em;
+  margin-bottom: 1.5em;
+}
+.radio-desc {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: inherit;
+}
+.centered-navigator {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
